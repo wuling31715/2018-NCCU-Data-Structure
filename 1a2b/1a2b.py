@@ -28,7 +28,7 @@ def answer_check(guess_input):
     global game_continue, round_times 
     if final_answer == guess_input:
         game_continue = False
-        print('4 A 0 B\nRound Times: %d' %(round_times))
+        print('4 A 0 B\nRound Times: %d' % (round_times))
         return True
     else:
         return False
