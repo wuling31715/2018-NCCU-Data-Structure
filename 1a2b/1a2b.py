@@ -6,16 +6,13 @@ def main():
     #print(final_answer)
     game_continue = True 
     round_times = 1
-
     while game_continue:
         guess_input = input('Please input a 4 digits number:\n')
         if answer_check(guess_input):
             pass
         else:
             hint = get_hint(guess_input)
-            A = hint[0]
-            B = hint[1]
-            print('%d A %d B' % (A, B))
+            print(hint)
         round_times = round_times + 1
 
 def answer_create():
@@ -51,6 +48,6 @@ def get_hint(guess_input):
         for j in guess_input_tmp:
             if i == j:
                 B = B + 1
-    return A, B            
+    return '%d A %d B' % (A, B)            
 
 main()
