@@ -1,13 +1,14 @@
 import random 
+import time 
 
 def main():
     global final_answer, game_continue, round_times
     final_answer = answer_create()
-    #print(final_answer)
+    print(final_answer)
     game_continue = True 
     round_times = 1
     while game_continue:
-        guess_input = input('Please input a 4 digits number:\n')
+        guess_input = input('-' * 10 + '\n')
         if answer_check(guess_input):
             pass
         else:
@@ -50,4 +51,8 @@ def get_hint(guess_input):
                 B = B + 1
     return '%d A %d B' % (A, B)            
 
+time_start = time.time()
 main()
+time_end = time.time()
+time_used = time_end - time_start
+print('Seconds Used: %d' % (round(time_used)))
