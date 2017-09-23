@@ -4,7 +4,7 @@ import time
 def main():
     global final_answer, game_continue, round_times
     final_answer = answer_create()
-    print(final_answer)
+    #print(final_answer)
     game_continue = True 
     round_times = 1
     while game_continue:
