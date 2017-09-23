@@ -1,11 +1,22 @@
-def combi(r, n):
-    return 1 if n == 0 else combi(r, n - 1) * (r - n + 1) // n
-	
-height = 12
-c = [[combi(r, n) for n in range(r + 1)] for r in range(height)]
- 
-for r in range(len(c)):
-    print(("%" + str((len(c) - r) * 3) + "s") % "", end = "")
-    for n in range(len(c[r])):
-	    print("%6d" % c[r][n], end = "");
-    print()
+def main(N):
+
+    trangle = [[0] * (i + 1) for i in range(N)]
+
+    for i, row in zip (range(len(trangle)), trangle):
+        for j in range(len(row)):
+            if j == 0 or j == (len(row) - 1):
+                trangle[i][j] = 1
+            else:
+                trangle[i][j] = trangle[i - 1][j - 1] + trangle[i - 1][j]
+            #print(trangle[i][j])    
+
+    for i, row in zip (range(len(trangle) + 1), trangle):
+        print(' ' * int((len(trangle) - i)), end = '')
+        for j in row:
+            print(j, end = ' ')
+        print()
+
+
+N = input('Please input the degree:\n')        
+N = int(N)
+main(N)        
