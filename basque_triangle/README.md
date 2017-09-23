@@ -1,2 +1,2 @@
-![Alt text](/basque_triangle/demo.png "Optional title")
+![Demo](/basque_triangle/demo.png)
 
