@@ -17,6 +17,6 @@ def main(N):
         print()
 
 
-N = input('Please input the degree:\n')        
+N = input('Please input the degree: ')        
 N = int(N)
 main(N)        
