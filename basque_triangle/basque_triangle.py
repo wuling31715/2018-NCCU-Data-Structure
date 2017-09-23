@@ -8,7 +8,6 @@ def main(N):
                 trangle[i][j] = 1
             else:
                 trangle[i][j] = trangle[i - 1][j - 1] + trangle[i - 1][j]
-            #print(trangle[i][j])    
 
     for i, row in zip (range(len(trangle) + 1), trangle):
         print(' ' * int((len(trangle) - i)), end = '')
