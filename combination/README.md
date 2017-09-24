@@ -1,2 +1,2 @@
-![Demo](/basque_triangle/demo.png)
+![Demo](/combination/demo.png)
 
