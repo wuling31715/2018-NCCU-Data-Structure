@@ -55,4 +55,4 @@ time_start = time.time()
 main()
 time_end = time.time()
 time_used = time_end - time_start
-print('Time Used: %d (s)' % (round(time_used)))
+print('Time Used: %d (S)' % (round(time_used)))
