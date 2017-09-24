@@ -1,16 +1,16 @@
 def main(N):
 
-    trangle = [[0] * (i + 1) for i in range(N)]
+    triangle = [[0] * (i + 1) for i in range(N)]
 
-    for i, row in zip (range(len(trangle)), trangle):
+    for i, row in zip (range(len(triangle)), triangle):
         for j in range(len(row)):
             if j == 0 or j == (len(row) - 1):
-                trangle[i][j] = 1
+                triangle[i][j] = 1
             else:
-                trangle[i][j] = trangle[i - 1][j - 1] + trangle[i - 1][j]
+                triangle[i][j] = triangle[i - 1][j - 1] + triangle[i - 1][j]
 
-    for i, row in zip (range(len(trangle) + 1), trangle):
-        print(' ' * int((len(trangle) - i)), end = '')
+    for i, row in zip (range(len(triangle) + 1), triangle):
+        print(' ' * int((len(triangle) - i)), end = '')
         for j in row:
             print(j, end = ' ')
         print()
