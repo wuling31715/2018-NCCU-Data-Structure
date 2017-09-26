@@ -5,13 +5,13 @@ from combination import Combination as Combination
 
 def main(a, b):
     try:
-        print(Time.time_measure(Combination.method_1(a, b), Combination.method_1))
+        print(Time.time_measure(Combination.method2(a, b), Combination.method2))
     except:
-        pass
+        print('error')
     try:    
-        print(Time.time_measure(Combination.method_2(a, b), Combination.method_2))
+        print(Time.time_measure(Combination.method1(a, b), Combination.method1))
     except:
-        pass
+        print('error')
 
 A = int(input('C\n'))
 B = int(input())
