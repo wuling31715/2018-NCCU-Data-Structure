@@ -1,5 +1,7 @@
 import random 
-import time 
+import sys
+sys.path.append('..')
+from module.time import Time as Time 
 
 def main():
     global final_answer, game_continue, round_times
@@ -28,7 +30,7 @@ def answer_check(guess_input):
     global game_continue, round_times 
     if final_answer == guess_input:
         game_continue = False
-        print('4 A 0 B\nRound Times: %d' % (round_times))
+        print('4 A 0 B\nround times: %d' % (round_times))
         return True
     else:
         return False
@@ -51,8 +53,4 @@ def get_hint(guess_input):
                 B = B + 1
     return '%d A %d B' % (A, B)            
 
-time_start = time.time()
-main()
-time_end = time.time()
-time_used = time_end - time_start
-print('Time Used: %d (S)' % (round(time_used)))
+print(Time.time_measure(main(), main))

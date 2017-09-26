@@ -1,3 +1,8 @@
+import sys
+sys.path.append('..')
+from module.time import Time as time
+
+
 def main(N):
 
     triangle = [[0] * (i + 1) for i in range(N)]
@@ -17,4 +22,4 @@ def main(N):
 
 N = input('Please input the degree: ')        
 N = int(N)
-main(N) 
+print(time.time_measure(main(N), main))
