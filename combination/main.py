@@ -1,18 +1,12 @@
 import sys
 sys.path.append('..')
-from module.time import Time as Time 
-from combination import Combination as Combination 
+from module.time import Time as time 
+from combination import Combination as combination 
 
 def main(a, b):
-    try:
-        print(Time.time_measure(Combination.method2(a, b), Combination.method2))
-    except:
-        print('error')
-    try:    
-        print(Time.time_measure(Combination.method1(a, b), Combination.method1))
-    except:
-        print('error')
+    print(time.time_measure(combination.method2(a, b), combination.method2))
 
 A = int(input('C\n'))
 B = int(input())
 main(A, B)
+
