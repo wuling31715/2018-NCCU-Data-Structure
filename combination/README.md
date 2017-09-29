@@ -1,2 +1,0 @@
-![Demo](/combination/demo.png)
-
