@@ -1,8 +1,8 @@
 from datetime import datetime
 
-class Time:
+class Timer:
 
-    def time_measure(function):
+    def count(function):
         time_start = datetime.now()
         function()
         time_end = datetime.now()
@@ -10,8 +10,3 @@ class Time:
         function_name = function.__name__ 
         return '%s() used time: %s (s)' % (function_name, time_used)
 
-    def test():
-        time.sleep(3)
-        print('Hello World!')
-
-#print(Time.time_measure(Time.test))
