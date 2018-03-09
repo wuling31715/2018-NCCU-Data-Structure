@@ -8,5 +8,5 @@
 * [Merge Sort](https://github.com/wuling31715/algorithm/blob/master/sort/merge_sort/demo.ipynb)
 * [Quick Sort](https://github.com/wuling31715/algorithm/blob/master/sort/quick_sort/demo.ipynb)
 * [Quick Sort2](https://github.com/wuling31715/algorithm/blob/master/sort/quick_sort2/demo.ipynb)
-* [Radix_sort](https://github.com/wuling31715/algorithm/blob/master/sort/Radix_sort/demo.ipynb)
+* [Radix_sort](https://github.com/wuling31715/algorithm/blob/master/sort/radix_sort/demo.ipynb)
 * [Selection Sort](https://github.com/wuling31715/algorithm/blob/master/sort/selection_sort/demo.ipynb)
