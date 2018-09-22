@@ -6,7 +6,7 @@
 * [Queue](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/queue.ipynb)
 * [Circular Queue](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/circular_queue.ipynb)
 * [Circular Queue (Tag)](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/circular_queue_tag.ipynb)
-
+### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
 * [Bucket Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bucket_sort.ipynb)
 * [Counting Sort](https://github.com/wuling31715/algorithm/blob/master/sort/counting_sort.ipynb)
