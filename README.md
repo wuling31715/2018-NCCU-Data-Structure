@@ -15,7 +15,7 @@
 ### Recursion
 * [Factorial](https://github.com/wuling31715/algorithm/blob/master/recursion/factorial.ipynb)
 * [Fibonacci](https://github.com/wuling31715/algorithm/blob/master/recursion/fibonacci.ipynb)
-* [GCD](https://github.com/wuling31715/algorithm/blob/master/recursion/gcd.ipynb)
+* [Greatest Common Divisor (GCD)](https://github.com/wuling31715/algorithm/blob/master/recursion/gcd.ipynb)
 * [Hanoi Tower](https://github.com/wuling31715/algorithm/blob/master/recursion/hanoi_tower.ipynb)
 ### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
