@@ -17,6 +17,7 @@
 * [Fibonacci](https://github.com/wuling31715/algorithm/blob/master/recursion/fibonacci.ipynb)
 * [Greatest Common Divisor (GCD)](https://github.com/wuling31715/algorithm/blob/master/recursion/greatest_common_divisor.ipynb)
 * [Hanoi Tower](https://github.com/wuling31715/algorithm/blob/master/recursion/hanoi_tower.ipynb)
+### Heap
 * [Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/max_heap.ipynb)
 * [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
 * [Min Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_max_heap.ipynb)
