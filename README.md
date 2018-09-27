@@ -29,5 +29,5 @@
 * [Merge Sort](https://github.com/wuling31715/algorithm/blob/master/sort/merge_sort.ipynb)
 * [Quick Sort](https://github.com/wuling31715/algorithm/blob/master/sort/quick_sort.ipynb)
 * [Quick Sort2](https://github.com/wuling31715/algorithm/blob/master/sort/quick_sort2.ipynb)
-* [Radix_sort](https://github.com/wuling31715/algorithm/blob/master/sort/radix_sort.ipynb)
+* [Radix sort](https://github.com/wuling31715/algorithm/blob/master/sort/radix_sort.ipynb)
 * [Selection Sort](https://github.com/wuling31715/algorithm/blob/master/sort/selection_sort.ipynb)
