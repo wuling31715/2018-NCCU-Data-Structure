@@ -17,14 +17,14 @@
 * [Fibonacci](https://github.com/wuling31715/algorithm/blob/master/recursion/fibonacci.ipynb)
 * [Greatest Common Divisor (GCD)](https://github.com/wuling31715/algorithm/blob/master/recursion/greatest_common_divisor.ipynb)
 * [Hanoi Tower](https://github.com/wuling31715/algorithm/blob/master/recursion/hanoi_tower.ipynb)
+### Tree
+* [Binary Tree](https://github.com/wuling31715/algorithm/blob/master/tree/binary_tree.ipynb)
+* [Binary Search Tree (BST)](https://github.com/wuling31715/algorithm/blob/master/tree/binary_search_tree.ipynb)
 ### Heap
 * [Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/max_heap.ipynb)
 * [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
 * [Min Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_max_heap.ipynb)
 * [Deap](https://github.com/wuling31715/algorithm/blob/master/heap/deap.ipynb)
-### Tree
-* [Binary Tree](https://github.com/wuling31715/algorithm/blob/master/tree/binary_tree.ipynb)
-* [Binary Search Tree (BST)](https://github.com/wuling31715/algorithm/blob/master/tree/binary_search_tree.ipynb)
 ### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
 * [Bucket Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bucket_sort.ipynb)
