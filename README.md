@@ -20,6 +20,12 @@
 ### Tree
 * [Binary Tree](https://github.com/wuling31715/algorithm/blob/master/tree/binary_tree.ipynb)
 * [Binary Search Tree (BST)](https://github.com/wuling31715/algorithm/blob/master/tree/binary_search_tree.ipynb)
+* [AVL Tree](https://github.com/wuling31715/algorithm/blob/master/tree/avl_tree.ipynb)
+* [2-3 Tree](https://github.com/wuling31715/algorithm/blob/master/tree/2_3_tree.ipynb)
+* [2-3-4 Tree](https://github.com/wuling31715/algorithm/blob/master/tree/2_3_4_tree.ipynb)
+* [Red-Black Tree](https://github.com/wuling31715/algorithm/blob/master/tree/red_black_tree.ipynb)
+* [M-Way Tree](https://github.com/wuling31715/algorithm/blob/master/tree/m_way_tree.ipynb)
+* [B Tree](https://github.com/wuling31715/algorithm/blob/master/tree/b_tree.ipynb)
 ### Heap
 * [Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/max_heap.ipynb)
 * [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
