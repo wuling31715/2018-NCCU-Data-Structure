@@ -27,10 +27,10 @@
 * B Tree
 * Red-Black Tree
 ### Heap
-* [Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/max_heap.ipynb)
-* [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
-* [Min Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_max_heap.ipynb)
-* [Deap](https://github.com/wuling31715/algorithm/blob/master/heap/deap.ipynb)
+* Max Heap
+* Min Heap
+* Min Max Heap
+* Deap
 ### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
 * [Bucket Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bucket_sort.ipynb)
