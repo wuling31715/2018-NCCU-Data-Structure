@@ -34,7 +34,10 @@
 ### Graph
 * [Depth Fisrt Search (DFS)](https://github.com/wuling31715/algorithm/blob/master/graph/depth_first_search.ipynb)
 * [Breadth First Search (BFS)](https://github.com/wuling31715/algorithm/blob/master/graph/breadth_first_search.ipynb)
-* [Dijkstra](https://github.com/wuling31715/algorithm/blob/master/graph/dijkstra.ipynb)
+* [Prim’s Minimum Spanning Tree (MST)](http://localhost:8888/notebooks/prims_minimum_spanning_tree.ipynb)
+* []()
+* []()
+* [Dijkstra'](https://github.com/wuling31715/algorithm/blob/master/graph/dijkstra.ipynb)
 ### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
 * [Bucket Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bucket_sort.ipynb)
