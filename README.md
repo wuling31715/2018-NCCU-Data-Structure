@@ -36,7 +36,7 @@
 * [Breadth First Search (BFS)](https://github.com/wuling31715/algorithm/blob/master/graph/breadth_first_search.ipynb)
 * [Prim’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/prims_minimum_spanning_tree.ipynb)
 * [Kruskal’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/kruskals_minimum_spanning_tree.ipynb)
-* [Boruvka’s Minimum Spanning Tree (MST)]()
+* [Boruvka’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/boruvkas_minimum_spanning_tree.ipynb)
 * [Dijkstra’s Shortest Path](https://github.com/wuling31715/algorithm/blob/master/graph/dijkstras_shortest_path.ipynb)
 ### Sort
 * [Bubble Sort](https://github.com/wuling31715/algorithm/blob/master/sort/bubble_sort.ipynb)
