@@ -50,3 +50,7 @@
 * [Quick Sort2](https://github.com/wuling31715/algorithm/blob/master/sort/quick_sort2.ipynb)
 * [Radix sort](https://github.com/wuling31715/algorithm/blob/master/sort/radix_sort.ipynb)
 * [Selection Sort](https://github.com/wuling31715/algorithm/blob/master/sort/selection_sort.ipynb)
+### Search
+* [Linear Search](https://github.com/wuling31715/algorithm/blob/master/search/linear_search.ipynb)
+* [Binary Search](https://github.com/wuling31715/algorithm/blob/master/search/binary_search.ipynb)
+* [Hash Search](https://github.com/wuling31715/algorithm/blob/master/search/hash_search.ipynb)
