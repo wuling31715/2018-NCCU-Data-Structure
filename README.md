@@ -53,4 +53,3 @@
 ### Search
 * [Linear Search](https://github.com/wuling31715/algorithm/blob/master/search/linear_search.ipynb)
 * [Binary Search](https://github.com/wuling31715/algorithm/blob/master/search/binary_search.ipynb)
-* [Hash Search](https://github.com/wuling31715/algorithm/blob/master/search/hash_search.ipynb)
