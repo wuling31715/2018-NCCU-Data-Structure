@@ -1,11 +1,12 @@
 # Algorithm
 ### Stack
-* [Stack](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/stack.ipynb)
-* [Postfix](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/postfix.ipynb)
+* [Stack](https://github.com/wuling31715/algorithm/blob/master/stack/stack.ipynb)
+* [Postfix](https://github.com/wuling31715/algorithm/blob/master/stack/postfix.ipynb)
 ### Queue
-* [Queue](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/queue.ipynb)
-* [Circular Queue](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/circular_queue.ipynb)
-* [Circular Queue (Tag)](https://github.com/wuling31715/algorithm/blob/master/stack%26queue/circular_queue_tag.ipynb)
+* [Queue](https://github.com/wuling31715/algorithm/blob/master/queue/queue.ipynb)
+* [Circular Queue](https://github.com/wuling31715/algorithm/blob/master/queue/circular_queue.ipynb)
+* [Circular Queue (Tag)](https://github.com/wuling31715/algorithm/blob/master/queue/circular_queue_tag.ipynb)
+* [Double Queue](https://github.com/wuling31715/algorithm/blob/master/queue/double_queue.ipynb)
 ### Linked List
 * [Single Linked List](https://github.com/wuling31715/algorithm/blob/master/linked_list/single_linked_list.ipynb)
 * [Circular Single Linked List](https://github.com/wuling31715/algorithm/blob/master/linked_list/circular_single_linked_list.ipynb)
