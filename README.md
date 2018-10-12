@@ -1,5 +1,6 @@
 # Algorithm
 ### Array
+* [Array](https://github.com/wuling31715/algorithm/blob/master/array/array.ipynb)
 ### Stack
 * [Stack](https://github.com/wuling31715/algorithm/blob/master/stack/stack.ipynb)
 * [Postfix](https://github.com/wuling31715/algorithm/blob/master/stack/postfix.ipynb)
