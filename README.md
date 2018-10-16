@@ -30,7 +30,7 @@
 * B Tree
 * Red-Black Tree
 ### Heap
-* [Min Heap]()
+* [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
 * Max Heap
 * Min Max Heap
 * Deap
