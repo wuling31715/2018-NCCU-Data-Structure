@@ -30,8 +30,8 @@
 * B Tree
 * Red-Black Tree
 ### Heap
+* [Min Heap]()
 * Max Heap
-* Min Heap
 * Min Max Heap
 * Deap
 ### Graph
