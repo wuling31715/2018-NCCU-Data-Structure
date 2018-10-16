@@ -31,7 +31,7 @@
 * Red-Black Tree
 ### Heap
 * [Min Heap](https://github.com/wuling31715/algorithm/blob/master/heap/min_heap.ipynb)
-* Max Heap
+* [Max Heap](https://github.com/wuling31715/algorithm/blob/master/heap/max_heap.ipynb)
 * Min Max Heap
 * Deap
 ### Graph
