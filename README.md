@@ -37,9 +37,9 @@
 ### Graph
 * [Depth Fisrt Search (DFS)](https://github.com/wuling31715/algorithm/blob/master/graph/depth_first_search.ipynb)
 * [Breadth First Search (BFS)](https://github.com/wuling31715/algorithm/blob/master/graph/breadth_first_search.ipynb)
-* [Prim’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/prims_minimum_spanning_tree.ipynb)
 * [Kruskal’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/kruskals_minimum_spanning_tree.ipynb)
-* [Boruvka’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/boruvkas_minimum_spanning_tree.ipynb)
+* [Prim’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/prims_minimum_spanning_tree.ipynb)
+* [Sollin’s Minimum Spanning Tree (MST)](https://github.com/wuling31715/algorithm/blob/master/graph/sollin_minimum_spanning_tree.ipynb)
 * [Dijkstra’s Shortest Path](https://github.com/wuling31715/algorithm/blob/master/graph/dijkstras_shortest_path.ipynb)
 * Floyd's Shortest Path
 * Warshall's Shortest Path
