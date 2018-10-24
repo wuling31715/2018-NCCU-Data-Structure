@@ -58,3 +58,5 @@
 ### Search
 * [Linear Search](https://github.com/wuling31715/algorithm/blob/master/search/linear_search.ipynb)
 * [Binary Search](https://github.com/wuling31715/algorithm/blob/master/search/binary_search.ipynb)
+* [Fibonacci Search](https://github.com/wuling31715/algorithm/blob/master/search/fibonacci_search.ipynb)
+* [Interpolation Search](https://github.com/wuling31715/algorithm/blob/master/search/interpolation_search.ipynb)
