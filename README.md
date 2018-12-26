@@ -59,3 +59,10 @@
 * [Binary Search](https://github.com/wuling31715/algorithm/blob/master/search/binary_search.ipynb)
 * [Fibonacci Search](https://github.com/wuling31715/algorithm/blob/master/search/fibonacci_search.ipynb)
 * [Interpolation Search](https://github.com/wuling31715/algorithm/blob/master/search/interpolation_search.ipynb)
+### Operating System
+* [Turn](https://github.com/wuling31715/algorithm/blob/master/operating_system/turn.ipynb)
+* [Flag](https://github.com/wuling31715/algorithm/blob/master/operating_system/flag.ipynb)
+* [Peterson's Algorithm](https://github.com/wuling31715/algorithm/blob/master/operating_system/peterson.ipynb)
+* [Bakery Algorithm](https://github.com/wuling31715/algorithm/blob/master/operating_system/bakery.ipynb)
+* [Test and Set](https://github.com/wuling31715/algorithm/blob/master/operating_system/test_and_set.ipynb)
+* [Semaphore](https://github.com/wuling31715/algorithm/blob/master/operating_system/semaphore.ipynb)
