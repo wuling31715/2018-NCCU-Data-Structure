@@ -65,5 +65,6 @@
 * [Peterson's Algorithm](https://github.com/wuling31715/algorithm/blob/master/operating_system/peterson.ipynb)
 * [Bakery Algorithm](https://github.com/wuling31715/algorithm/blob/master/operating_system/bakery.ipynb)
 * [Test and Set](https://github.com/wuling31715/algorithm/blob/master/operating_system/test_and_set.ipynb)
+* [Swap](https://github.com/wuling31715/algorithm/blob/master/operating_system/swap.ipynb)
 * [Counting Semaphore](https://github.com/wuling31715/algorithm/blob/master/operating_system/counting_semaphore.ipynb)
 * [Binary Semaphore](https://github.com/wuling31715/algorithm/blob/master/operating_system/binary_semaphore.ipynb)
