@@ -67,5 +67,6 @@
 * [Bakery Algorithm](https://github.com/wuling31715/algorithm/blob/master/critical_section/bakery.ipynb)
 * [Test and Set](https://github.com/wuling31715/algorithm/blob/master/critical_section/test_and_set.ipynb)
 * [Swap](https://github.com/wuling31715/algorithm/blob/master/critical_section/swap.ipynb)
+* [Semaphore](https://github.com/wuling31715/algorithm/blob/master/critical_section/semaphore.ipynb)
 * [Counting Semaphore](https://github.com/wuling31715/algorithm/blob/master/critical_section/counting_semaphore.ipynb)
 * [Binary Semaphore](https://github.com/wuling31715/algorithm/blob/master/critical_section/test_and_set.ipynb)
